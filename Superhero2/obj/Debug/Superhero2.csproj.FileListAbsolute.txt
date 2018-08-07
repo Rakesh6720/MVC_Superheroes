@@ -96,3 +96,5 @@ C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Superhero2\Superhero2\bin
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Superhero2\Superhero2\bin\Microsoft.AI.PerfCounterCollector.xml
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Superhero2\Superhero2\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Superhero2\Superhero2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Superhero2\Superhero2\obj\Debug\Superhero2.Migrations.InitialCreate.resources
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\Superhero2\Superhero2\obj\Debug\Superhero2.csproj.GenerateResource.cache
